@@ -31,7 +31,7 @@ D:\Environment\Java
 └─swj.ini
 ```
 
-4. Edit the `swj.ini` to configure. The content of the file is as follows:
+4. Configure the `swj.ini`. The content of the file is as follows:
 
 ```ini
 [App]
